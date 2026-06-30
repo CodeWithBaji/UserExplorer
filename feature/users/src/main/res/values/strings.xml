@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Screen Titles -->
+    <string name="users_screen_title">Users</string>
+    <string name="user_details_screen_title">User Details</string>
+
+    <!-- Navigation -->
+    <string name="back_button">Back</string>
+
+    <!-- Content Descriptions -->
+    <string name="profile_photo_content_description">Profile photo of %1$s</string>
+
+    <!-- Section Titles -->
+    <string name="personal_information_section">Personal Information</string>
+    <string name="location_section">Location</string>
+
+    <!-- Labels -->
+    <string name="name_label">Name</string>
+    <string name="username_label">Username</string>
+    <string name="email_label">Email</string>
+    <string name="phone_label">Phone</string>
+    <string name="company_label">Company</string>
+    <string name="address_label">Address</string>
+    <string name="zip_label">ZIP</string>
+    <string name="state_label">State</string>
+    <string name="country_label">Country</string>
+
+    <!-- Actions -->
+    <string name="retry_button">Retry</string>
+
+    <!-- Empty state -->
+    <string name="no_users_found">No users found</string>
+</resources> 
